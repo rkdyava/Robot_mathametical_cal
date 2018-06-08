@@ -1,4 +1,4 @@
-%%% DENAVIT HARTENBERG Parameteres by Mahmoud KhoshGoftar%%%
+%%% DENAVIT HARTENBERG Parameteres%%%
 clear all
 close all
 clc
